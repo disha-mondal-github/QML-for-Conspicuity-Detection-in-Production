@@ -33,21 +33,34 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Disha Mondal
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-ZwcFMJ02VouyIwX
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Not Available
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): Not Available
 
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+Task 1 : Click [here](https://github.com/disha-mondal-github/QuantumNinjas-repository/blob/main/pennylane_task1_codebooks_documentation.ipynb) to view.
 
-See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+Task 2 : Click [here](https://github.com/disha-mondal-github/QuantumNinjas-repository/blob/main/variational_classifier_task2.ipynb) to view.
+
+Task 3 : Click [here](https://github.com/disha-mondal-github/QuantumNinjas-repository/blob/main/quanvolutionalnetworks_task3.ipynb) to view.
+
+Task 4:  Click [here](https://github.com/disha-mondal-github/QuantumNinjas-repository/blob/main/quantumsinefunction_task4.ipynb) to view.
+
+Task 5 : Incomplete
+
+
+### Project Presentation Deck:
+_Link a 5min. presentation recording or deck here._
+
+Click [here](https://docs.google.com/presentation/d/1ZiKnIj_UDbCkcsutkgFjOyXy5F4xaep8/edit?usp=sharing&ouid=112195040657871254632&rtpof=true&sd=true) to view the presentation deck.
+
+
 
