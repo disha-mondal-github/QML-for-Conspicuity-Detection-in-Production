@@ -62,4 +62,6 @@ _Link a 5min. presentation recording or deck here._
 
 Click [here](https://docs.google.com/presentation/d/1ZiKnIj_UDbCkcsutkgFjOyXy5F4xaep8/edit?usp=sharing&ouid=112195040657871254632&rtpof=true&sd=true) to view the presentation deck.
 
+In case the above link doesn't work, Click [here](https://github.com/disha-mondal-github/QuantumNinjas-repository/blob/main/QMLforConspicuityDetectioninProduction_DishaMondal.pptx.pdf) to view the pdf version of the presentation deck.
+
 
